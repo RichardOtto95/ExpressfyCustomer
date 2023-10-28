@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "931377152476",
+    "project_id": "delivery-project-461ee",
+    "storage_bucket": "delivery-project-461ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931377152476:android:71a69c7486349805548f19",
+        "android_client_info": {
+          "package_name": "br.com.delivery.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931377152476-7j5r45i0466osiqjfh7jj8nkqnuqvdca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3cPHyCPKbTkWmiw_SaLuHpNxxOliecHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931377152476-7j5r45i0466osiqjfh7jj8nkqnuqvdca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931377152476:android:51615b0c403ed604548f19",
+        "android_client_info": {
+          "package_name": "br.com.delivery.emissary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931377152476-7j5r45i0466osiqjfh7jj8nkqnuqvdca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3cPHyCPKbTkWmiw_SaLuHpNxxOliecHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931377152476-7j5r45i0466osiqjfh7jj8nkqnuqvdca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931377152476:android:f6878c2d11a0498d548f19",
+        "android_client_info": {
+          "package_name": "br.com.delivery.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931377152476-7j5r45i0466osiqjfh7jj8nkqnuqvdca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3cPHyCPKbTkWmiw_SaLuHpNxxOliecHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931377152476-7j5r45i0466osiqjfh7jj8nkqnuqvdca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931377152476:android:35b597dd75967210548f19",
+        "android_client_info": {
+          "package_name": "br.com.delivery.support"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931377152476-7j5r45i0466osiqjfh7jj8nkqnuqvdca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3cPHyCPKbTkWmiw_SaLuHpNxxOliecHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931377152476-7j5r45i0466osiqjfh7jj8nkqnuqvdca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
